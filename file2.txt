@@ -1,6 +1,3 @@
 ftd
 drydry
 dxrddy
-
-
-abcdef
